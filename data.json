@@ -7872,7 +7872,21 @@
       "winner": "SOKACH",
       "stats": [
        {
-        "unread": true
+        "pieces": 145,
+        "att": 109,
+        "time": 42.85,
+        "pps": 3.38,
+        "apm": 152.63,
+        "app": 0.75,
+        "vs": 298.74,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 39.833,
+        "read": [
+         135,
+         101
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 109,
@@ -7892,7 +7906,21 @@
       "winner": "SOKACH",
       "stats": [
        {
-        "unread": true
+        "pieces": 177,
+        "att": 129,
+        "time": 52.45,
+        "pps": 3.37,
+        "apm": 147.57,
+        "app": 0.73,
+        "vs": 262.36,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 46.592,
+        "read": [
+         157,
+         115
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 129,
@@ -7932,7 +7960,21 @@
       "winner": "SOKACH",
       "stats": [
        {
-        "unread": true
+        "pieces": 172,
+        "att": 117,
+        "time": 44.983,
+        "pps": 3.82,
+        "apm": 156.06,
+        "app": 0.68,
+        "vs": 264.26,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 43.183,
+        "read": [
+         165,
+         112
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 121,
@@ -8057,7 +8099,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 82,
+        "att": 66,
+        "time": 30.567,
+        "pps": 2.68,
+        "apm": 129.55,
+        "app": 0.8,
+        "vs": 264.06,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 24.983,
+        "read": [
+         67,
+         54
+        ],
+        "att_unchecked": true
        }
       ]
      },
@@ -8067,7 +8123,21 @@
       "winner": "MEOHZI",
       "stats": [
        {
-        "unread": true
+        "pieces": 201,
+        "att": 180,
+        "time": 62.633,
+        "pps": 3.21,
+        "apm": 172.43,
+        "app": 0.9,
+        "vs": 306.59,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 58.66,
+        "read": [
+         188,
+         169
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 160,
@@ -8249,7 +8319,21 @@
       "winner": "MITHRAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 43,
+        "att": 29,
+        "time": 14.683,
+        "pps": 2.93,
+        "apm": 118.5,
+        "app": 0.67,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 13.287,
+        "read": [
+         39,
+         26
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 36,
@@ -8269,7 +8353,21 @@
       "winner": "MITHRAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 42,
+        "att": 19,
+        "time": 15.6,
+        "pps": 2.69,
+        "apm": 73.08,
+        "app": 0.45,
+        "vs": 128.76,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 12.293,
+        "read": [
+         33,
+         15
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 31,
@@ -8289,7 +8387,21 @@
       "winner": "MITHRAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 60,
+        "att": 39,
+        "time": 21.717,
+        "pps": 2.76,
+        "apm": 107.75,
+        "app": 0.65,
+        "vs": 187.99,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 18.603,
+        "read": [
+         51,
+         33
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 50,
@@ -8391,7 +8503,21 @@
       "winner": "MITHRAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 50,
+        "att": 54,
+        "time": 15.95,
+        "pps": 3.13,
+        "apm": 203.13,
+        "app": 1.08,
+        "vs": 366.78,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 14.55,
+        "read": [
+         46,
+         49
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 40,
@@ -8424,7 +8550,21 @@
       "winner": "MAKARAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 117,
+        "att": 95,
+        "time": 43.817,
+        "pps": 2.67,
+        "apm": 130.09,
+        "app": 0.81,
+        "vs": 263.11,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 40.567,
+        "read": [
+         108,
+         88
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 97,
@@ -8471,7 +8611,21 @@
       "winner": "MAKARAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 100,
+        "att": 61,
+        "time": 40.65,
+        "pps": 2.46,
+        "apm": 90.04,
+        "app": 0.61,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 35.2,
+        "read": [
+         87,
+         53
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 77,
@@ -8491,7 +8645,21 @@
       "winner": "MAKARAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 180,
+        "att": 169,
+        "time": 66.95,
+        "pps": 2.69,
+        "apm": 151.46,
+        "app": 0.94,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 65.78,
+        "read": [
+         177,
+         166
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 134,
@@ -8511,7 +8679,21 @@
       "winner": "MAKARAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 58,
+        "att": 37,
+        "time": 24.0,
+        "pps": 2.42,
+        "apm": 92.5,
+        "app": 0.64,
+        "vs": 181.08,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 18.565,
+        "read": [
+         45,
+         29
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 43,
@@ -8531,7 +8713,21 @@
       "winner": "MAKARAAAA",
       "stats": [
        {
-        "unread": true
+        "pieces": 105,
+        "att": 66,
+        "time": 40.667,
+        "pps": 2.58,
+        "apm": 97.38,
+        "app": 0.63,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 36.5,
+        "read": [
+         94,
+         59
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 81,
@@ -8618,7 +8814,21 @@
       "winner": "KAFE11",
       "stats": [
        {
-        "unread": true
+        "pieces": 118,
+        "att": 96,
+        "time": 35.333,
+        "pps": 3.34,
+        "apm": 163.02,
+        "app": 0.81,
+        "vs": 342.95,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 30.2,
+        "read": [
+         101,
+         82
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 151,
@@ -8665,7 +8875,21 @@
       "winner": "KAFE11",
       "stats": [
        {
-        "unread": true
+        "pieces": 277,
+        "att": 252,
+        "time": 68.417,
+        "pps": 4.05,
+        "apm": 221.0,
+        "app": 0.91,
+        "vs": 419.92,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 66.762,
+        "read": [
+         270,
+         246
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 286,
@@ -8791,7 +9015,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 286,
+        "att": 198,
+        "time": 77.16,
+        "pps": 3.71,
+        "apm": 153.97,
+        "app": 0.69,
+        "vs": 332.75,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 76.502,
+        "read": [
+         284,
+         196
+        ],
+        "att_unchecked": true
        }
       ]
      },
@@ -10184,7 +10422,21 @@
       "winner": "SHAN_TC",
       "stats": [
        {
-        "unread": true
+        "pieces": 80,
+        "att": 48,
+        "time": 24.233,
+        "pps": 3.3,
+        "apm": 118.85,
+        "app": 0.6,
+        "vs": 217.35,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 22.0,
+        "read": [
+         73,
+         44
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 54,
@@ -10204,7 +10456,21 @@
       "winner": "SHAN_TC",
       "stats": [
        {
-        "unread": true
+        "pieces": 58,
+        "att": 19,
+        "time": 15.983,
+        "pps": 3.63,
+        "apm": 71.33,
+        "app": 0.33,
+        "vs": 119.66,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 12.917,
+        "read": [
+         47,
+         15
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 30,
@@ -10224,7 +10490,21 @@
       "winner": "SHAN_TC",
       "stats": [
        {
-        "unread": true
+        "pieces": 310,
+        "att": 194,
+        "time": 92.933,
+        "pps": 3.34,
+        "apm": 125.25,
+        "app": 0.63,
+        "vs": 270.86,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 90.117,
+        "read": [
+         301,
+         188
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 228,
@@ -10264,7 +10544,21 @@
       "winner": "SHAN_TC",
       "stats": [
        {
-        "unread": true
+        "pieces": 247,
+        "att": 162,
+        "time": 76.55,
+        "pps": 3.23,
+        "apm": 126.98,
+        "app": 0.66,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 75.989,
+        "read": [
+         245,
+         161
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 199,
@@ -10284,7 +10578,21 @@
       "winner": "SHAN_TC",
       "stats": [
        {
-        "unread": true
+        "pieces": 68,
+        "att": 40,
+        "time": 19.5,
+        "pps": 3.49,
+        "apm": 123.08,
+        "app": 0.59,
+        "vs": 205.62,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 14.7,
+        "read": [
+         51,
+         30
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 39,
@@ -10372,7 +10680,21 @@
       "winner": "SOMI",
       "stats": [
        {
-        "unread": true
+        "pieces": 306,
+        "att": 241,
+        "time": 114.85,
+        "pps": 2.66,
+        "apm": 125.9,
+        "app": 0.79,
+        "vs": 265.12,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 109.356,
+        "read": [
+         291,
+         229
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 316,
@@ -10392,7 +10714,21 @@
       "winner": "SOMI",
       "stats": [
        {
-        "unread": true
+        "pieces": 93,
+        "att": 71,
+        "time": 26.383,
+        "pps": 3.52,
+        "apm": 161.47,
+        "app": 0.76,
+        "vs": 296.2,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 21.65,
+        "read": [
+         76,
+         58
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 78,
@@ -10466,7 +10802,21 @@
       "winner": "SOMI",
       "stats": [
        {
-        "unread": true
+        "pieces": 96,
+        "att": 92,
+        "time": 52.75,
+        "pps": 1.82,
+        "apm": 104.64,
+        "app": 0.96,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 51.083,
+        "read": [
+         93,
+         89
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 120,
@@ -14158,7 +14508,21 @@
       "winner": "SUMM3RITY",
       "stats": [
        {
-        "unread": true
+        "pieces": 106,
+        "att": 85,
+        "time": 35.85,
+        "pps": 2.96,
+        "apm": 142.26,
+        "app": 0.8,
+        "vs": 173.82,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 33.583,
+        "read": [
+         99,
+         80
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 87,
@@ -14178,7 +14542,21 @@
       "winner": "SUMM3RITY",
       "stats": [
        {
-        "unread": true
+        "pieces": 126,
+        "att": 99,
+        "time": 32.783,
+        "pps": 3.84,
+        "apm": 181.19,
+        "app": 0.79,
+        "vs": 330.93,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 27.8,
+        "read": [
+         107,
+         84
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 95,
@@ -14245,7 +14623,21 @@
       "winner": "SUMM3RITY",
       "stats": [
        {
-        "unread": true
+        "pieces": 176,
+        "att": 139,
+        "time": 42.3,
+        "pps": 4.16,
+        "apm": 197.16,
+        "app": 0.79,
+        "vs": 374.82,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 36.55,
+        "read": [
+         152,
+         120
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 136,
@@ -14396,7 +14788,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 123,
+        "att": 126,
+        "time": 41.517,
+        "pps": 2.96,
+        "apm": 182.09,
+        "app": 1.02,
+        "vs": 375.17,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 35.45,
+        "read": [
+         105,
+         108
+        ],
+        "att_unchecked": true
        }
       ]
      },
@@ -14560,7 +14966,21 @@
       "winner": "PCO",
       "stats": [
        {
-        "unread": true
+        "pieces": 56,
+        "att": 33,
+        "time": 27.483,
+        "pps": 2.04,
+        "apm": 72.04,
+        "app": 0.59,
+        "vs": 121.39,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 23.063,
+        "read": [
+         47,
+         28
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 61,
@@ -14600,7 +15020,21 @@
       "winner": "PCO",
       "stats": [
        {
-        "unread": true
+        "pieces": 58,
+        "att": 59,
+        "time": 35.883,
+        "pps": 1.62,
+        "apm": 98.65,
+        "app": 1.02,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 32.76,
+        "read": [
+         53,
+         54
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 72,
@@ -14620,7 +15054,21 @@
       "winner": "PCO",
       "stats": [
        {
-        "unread": true
+        "pieces": 210,
+        "att": 225,
+        "time": 99.367,
+        "pps": 2.11,
+        "apm": 135.86,
+        "app": 1.07,
+        "vs": 290.69,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 96.7,
+        "read": [
+         204,
+         219
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 269,
@@ -14640,7 +15088,21 @@
       "winner": "PCO",
       "stats": [
        {
-        "unread": true
+        "pieces": 218,
+        "att": 252,
+        "time": 101.633,
+        "pps": 2.14,
+        "apm": 148.77,
+        "app": 1.16,
+        "vs": 308.03,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 99.867,
+        "read": [
+         214,
+         248
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 271,
@@ -14660,7 +15122,21 @@
       "winner": "PCO",
       "stats": [
        {
-        "unread": true
+        "pieces": 36,
+        "att": 28,
+        "time": 16.833,
+        "pps": 2.14,
+        "apm": 99.8,
+        "app": 0.78,
+        "vs": 166.3,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 13.383,
+        "read": [
+         29,
+         22
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 40,
@@ -14690,7 +15166,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 42,
+        "att": 31,
+        "time": 12.133,
+        "pps": 3.46,
+        "apm": 153.3,
+        "app": 0.74,
+        "vs": 280.85,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 10.307,
+        "read": [
+         36,
+         26
+        ],
+        "att_unchecked": true
        }
       ]
      },
@@ -14740,7 +15230,21 @@
       "winner": "3ROTATE",
       "stats": [
        {
-        "unread": true
+        "pieces": 66,
+        "att": 58,
+        "time": 22.95,
+        "pps": 2.88,
+        "apm": 151.63,
+        "app": 0.88,
+        "vs": 276.86,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 18.912,
+        "read": [
+         54,
+         48
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 60,
@@ -14788,7 +15292,21 @@
       "winner": "3ROTATE",
       "stats": [
        {
-        "unread": true
+        "pieces": 78,
+        "att": 83,
+        "time": 21.65,
+        "pps": 3.6,
+        "apm": 230.02,
+        "app": 1.06,
+        "vs": 421.75,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 20.16,
+        "read": [
+         73,
+         77
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 67,
@@ -14818,7 +15336,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 78,
+        "att": 76,
+        "time": 24.767,
+        "pps": 3.15,
+        "apm": 184.12,
+        "app": 0.97,
+        "vs": 332.09,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 22.3,
+        "read": [
+         70,
+         68
+        ],
+        "att_unchecked": true
        }
       ]
      },
@@ -14903,7 +15435,21 @@
       "winner": "3ROTATE",
       "stats": [
        {
-        "unread": true
+        "pieces": 65,
+        "att": 63,
+        "time": 24.75,
+        "pps": 2.63,
+        "apm": 152.73,
+        "app": 0.97,
+        "vs": 280.03,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 19.283,
+        "read": [
+         51,
+         49
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 37,
@@ -31191,7 +31737,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 32,
+        "att": 23,
+        "time": 10.9,
+        "pps": 2.94,
+        "apm": 126.61,
+        "app": 0.72,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 9.65,
+        "read": [
+         28,
+         20
+        ],
+        "att_unchecked": false
        }
       ]
      },
@@ -31255,7 +31815,21 @@
       "winner": "ANYA",
       "stats": [
        {
-        "unread": true
+        "pieces": 90,
+        "att": 59,
+        "time": 29.417,
+        "pps": 3.06,
+        "apm": 120.34,
+        "app": 0.66,
+        "vs": 199.66,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 24.507,
+        "read": [
+         75,
+         49
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 75,
@@ -31332,7 +31906,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 120,
+        "att": 124,
+        "time": 37.367,
+        "pps": 3.21,
+        "apm": 199.11,
+        "app": 1.03,
+        "vs": 396.05,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 35.688,
+        "read": [
+         115,
+         118
+        ],
+        "att_unchecked": true
        }
       ]
      },
@@ -31389,7 +31977,21 @@
       "winner": "ANYA",
       "stats": [
        {
-        "unread": true
+        "pieces": 202,
+        "att": 135,
+        "time": 60.233,
+        "pps": 3.35,
+        "apm": 134.48,
+        "app": 0.67,
+        "vs": 284.63,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 56.563,
+        "read": [
+         190,
+         127
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 180,
@@ -31571,7 +32173,21 @@
       "winner": "FIRESTORM",
       "stats": [
        {
-        "unread": true
+        "pieces": 322,
+        "att": 293,
+        "time": 90.317,
+        "pps": 3.57,
+        "apm": 194.65,
+        "app": 0.91,
+        "vs": 369.86,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 89.297,
+        "read": [
+         318,
+         290
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 306,
@@ -31651,7 +32267,21 @@
       "winner": "TURTLE",
       "stats": [
        {
-        "unread": true
+        "pieces": 96,
+        "att": 78,
+        "time": 19.317,
+        "pps": 4.97,
+        "apm": 242.27,
+        "app": 0.81,
+        "vs": 423.6,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 18.1,
+        "read": [
+         90,
+         73
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 58,
@@ -31671,7 +32301,21 @@
       "winner": "TURTLE",
       "stats": [
        {
-        "unread": true
+        "pieces": 55,
+        "att": 46,
+        "time": 15.45,
+        "pps": 3.56,
+        "apm": 178.64,
+        "app": 0.84,
+        "vs": 350.09,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 12.633,
+        "read": [
+         45,
+         38
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 37,
@@ -31691,7 +32335,21 @@
       "winner": "TURTLE",
       "stats": [
        {
-        "unread": true
+        "pieces": 172,
+        "att": 111,
+        "time": 37.667,
+        "pps": 4.57,
+        "apm": 176.81,
+        "app": 0.65,
+        "vs": 301.15,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 34.533,
+        "read": [
+         158,
+         102
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 102,
@@ -31711,7 +32369,21 @@
       "winner": "TURTLE",
       "stats": [
        {
-        "unread": true
+        "pieces": 98,
+        "att": 83,
+        "time": 20.683,
+        "pps": 4.74,
+        "apm": 240.78,
+        "app": 0.85,
+        "vs": 403.16,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 19.18,
+        "read": [
+         91,
+         77
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 45,
@@ -31774,7 +32446,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 103,
+        "att": 71,
+        "time": 29.117,
+        "pps": 3.54,
+        "apm": 146.31,
+        "app": 0.69,
+        "vs": 343.61,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 26.483,
+        "read": [
+         94,
+         65
+        ],
+        "att_unchecked": false
        }
       ]
      },
@@ -31821,7 +32507,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 69,
+        "att": 31,
+        "time": 21.517,
+        "pps": 3.21,
+        "apm": 86.44,
+        "app": 0.45,
+        "vs": 163.98,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 17.083,
+        "read": [
+         55,
+         25
+        ],
+        "att_unchecked": false
        }
       ]
      },
@@ -31881,7 +32581,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 146,
+        "att": 112,
+        "time": 37.7,
+        "pps": 3.87,
+        "apm": 178.25,
+        "app": 0.77,
+        "vs": 342.25,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 33.017,
+        "read": [
+         128,
+         98
+        ],
+        "att_unchecked": false
        }
       ]
      },
@@ -31891,7 +32605,21 @@
       "winner": "LUMINA",
       "stats": [
        {
-        "unread": true
+        "pieces": 419,
+        "att": 342,
+        "time": 116.317,
+        "pps": 3.6,
+        "apm": 176.41,
+        "app": 0.82,
+        "vs": 360.68,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 111.537,
+        "read": [
+         402,
+         328
+        ],
+        "att_unchecked": true
        },
        {
         "pieces": 423,
@@ -31911,7 +32639,21 @@
       "winner": "LUMINA",
       "stats": [
        {
-        "unread": true
+        "pieces": 114,
+        "att": 107,
+        "time": 30.283,
+        "pps": 3.76,
+        "apm": 212.0,
+        "app": 0.94,
+        "vs": 414.37,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 26.533,
+        "read": [
+         100,
+         94
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 116,
@@ -31961,7 +32703,21 @@
         "src": "1080p"
        },
        {
-        "unread": true
+        "pieces": 67,
+        "att": 55,
+        "time": 16.967,
+        "pps": 3.95,
+        "apm": 194.5,
+        "app": 0.82,
+        "vs": 374.13,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 14.433,
+        "read": [
+         57,
+         47
+        ],
+        "att_unchecked": false
        }
       ]
      },
@@ -32004,7 +32760,21 @@
       "winner": "HIYORI",
       "stats": [
        {
-        "unread": true
+        "pieces": 93,
+        "att": 89,
+        "time": 26.55,
+        "pps": 3.5,
+        "apm": 201.13,
+        "app": 0.96,
+        "vs": 373.24,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 24.883,
+        "read": [
+         87,
+         83
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 84,
@@ -32024,7 +32794,21 @@
       "winner": "HIYORI",
       "stats": [
        {
-        "unread": true
+        "pieces": 73,
+        "att": 63,
+        "time": 19.983,
+        "pps": 3.65,
+        "apm": 189.16,
+        "app": 0.86,
+        "vs": null,
+        "src": "1080p-est",
+        "est": true,
+        "read_at": 18.467,
+        "read": [
+         67,
+         58
+        ],
+        "att_unchecked": false
        },
        {
         "pieces": 66,
