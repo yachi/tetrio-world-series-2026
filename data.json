@@ -7843,43 +7843,163 @@
       "n": 1,
       "t": 644,
       "winner": "SOKACH",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 60,
+        "att": 52,
+        "time": 14.233,
+        "pps": 4.22,
+        "apm": 219.21,
+        "app": 0.87,
+        "vs": 365.33,
+        "src": "1080p"
+       },
+       {
+        "pieces": 43,
+        "att": 28,
+        "time": 14.2,
+        "pps": 3.03,
+        "apm": 118.31,
+        "app": 0.65,
+        "vs": 232.39,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 669,
       "winner": "SOKACH",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 109,
+        "att": 63,
+        "time": 42.85,
+        "pps": 2.54,
+        "apm": 88.21,
+        "app": 0.58,
+        "vs": 226.37,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 722,
       "winner": "SOKACH",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 129,
+        "att": 69,
+        "time": 52.45,
+        "pps": 2.46,
+        "apm": 78.93,
+        "app": 0.53,
+        "vs": 213.53,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 786,
       "winner": "SOKACH",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 34,
+        "att": 29,
+        "time": 13.883,
+        "pps": 2.45,
+        "apm": 125.33,
+        "app": 0.85,
+        "vs": 288.11,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 810,
       "winner": "SOKACH",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 121,
+        "att": 72,
+        "time": 44.983,
+        "pps": 2.69,
+        "apm": 96.04,
+        "app": 0.6,
+        "vs": 224.52,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 866,
       "winner": "SOKACH",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 110,
+        "att": 57,
+        "time": 35.233,
+        "pps": 3.12,
+        "apm": 97.07,
+        "app": 0.52,
+        "vs": 17.9,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 72,
+        "att": 38,
+        "time": 35.017,
+        "pps": 2.06,
+        "apm": 65.11,
+        "app": 0.53,
+        "vs": 137.07,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 911,
       "winner": "SOKACH",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 98,
+        "att": 83,
+        "time": 23.733,
+        "pps": 4.13,
+        "apm": 209.83,
+        "app": 0.85,
+        "vs": 358.14,
+        "src": "1080p"
+       },
+       {
+        "pieces": 61,
+        "att": 38,
+        "time": 23.883,
+        "pps": 2.55,
+        "apm": 95.47,
+        "app": 0.62,
+        "vs": 242.84,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -7898,49 +8018,196 @@
       "n": 1,
       "t": 1226,
       "winner": "MEOHZI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 122,
+        "att": 125,
+        "time": 40.417,
+        "pps": 3.02,
+        "apm": 185.57,
+        "app": 1.02,
+        "vs": null,
+        "src": "1080p"
+       },
+       {
+        "pieces": 115,
+        "att": 104,
+        "time": 40.85,
+        "pps": 2.82,
+        "apm": 152.75,
+        "app": 0.9,
+        "vs": 291.3,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1277,
       "winner": "TURBOLBI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 90,
+        "att": 50,
+        "time": 30.567,
+        "pps": 2.94,
+        "apm": 98.15,
+        "app": 0.56,
+        "vs": 183.2,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1318,
       "winner": "MEOHZI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 160,
+        "att": 134,
+        "time": 62.633,
+        "pps": 2.55,
+        "apm": 128.37,
+        "app": 0.84,
+        "vs": 253.31,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 1391,
       "winner": "MEOHZI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 121,
+        "att": 98,
+        "time": 33.917,
+        "pps": 3.57,
+        "apm": 173.36,
+        "app": 0.81,
+        "vs": 29.13,
+        "src": "1080p"
+       },
+       {
+        "pieces": 83,
+        "att": 70,
+        "time": 33.883,
+        "pps": 2.45,
+        "apm": 123.96,
+        "app": 0.84,
+        "vs": 235.06,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 1436,
       "winner": "MEOHZI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 149,
+        "att": 129,
+        "time": 45.233,
+        "pps": 3.29,
+        "apm": 171.11,
+        "app": 0.87,
+        "vs": 333.82,
+        "src": "1080p"
+       },
+       {
+        "pieces": 112,
+        "att": 103,
+        "time": 45.5,
+        "pps": 2.46,
+        "apm": 135.82,
+        "app": 0.92,
+        "vs": 272.52,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 1492,
       "winner": "MEOHZI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 31,
+        "att": 21,
+        "time": 12.433,
+        "pps": 2.49,
+        "apm": 101.34,
+        "app": 0.68,
+        "vs": 201.07,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 1514,
       "winner": "MEOHZI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 195,
+        "att": 163,
+        "time": 66.233,
+        "pps": 2.94,
+        "apm": 147.66,
+        "app": 0.84,
+        "vs": 308.06,
+        "src": "1080p"
+       },
+       {
+        "pieces": 165,
+        "att": 139,
+        "time": 66.45,
+        "pps": 2.48,
+        "apm": 125.51,
+        "app": 0.84,
+        "vs": 261.85,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 1591,
       "winner": "MEOHZI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 78,
+        "att": 69,
+        "time": 24.483,
+        "pps": 3.19,
+        "apm": 169.1,
+        "app": 0.88,
+        "vs": 322.66,
+        "src": "1080p"
+       },
+       {
+        "pieces": 63,
+        "att": 56,
+        "time": 24.567,
+        "pps": 2.56,
+        "apm": 136.77,
+        "app": 0.89,
+        "vs": 272.72,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -7959,49 +8226,184 @@
       "n": 1,
       "t": 1951,
       "winner": "MITHRAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 20,
+        "att": 5,
+        "time": 10.617,
+        "pps": 1.88,
+        "apm": 28.26,
+        "app": 0.25,
+        "vs": null,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1972,
       "winner": "MITHRAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 36,
+        "att": 24,
+        "time": 14.683,
+        "pps": 2.45,
+        "apm": 98.07,
+        "app": 0.67,
+        "vs": 170.26,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1997,
       "winner": "MITHRAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 31,
+        "att": 7,
+        "time": 15.6,
+        "pps": 1.99,
+        "apm": 26.92,
+        "app": 0.23,
+        "vs": 44.87,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 2023,
       "winner": "MITHRAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 50,
+        "att": 31,
+        "time": 21.717,
+        "pps": 2.3,
+        "apm": 85.65,
+        "app": 0.62,
+        "vs": 151.95,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2055,
       "winner": "MITHRAAAA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 67,
+        "att": 46,
+        "time": 24.983,
+        "pps": 2.68,
+        "apm": 110.48,
+        "app": 0.69,
+        "vs": 196.13,
+        "src": "1080p"
+       },
+       {
+        "pieces": 51,
+        "att": 19,
+        "time": 25.083,
+        "pps": 2.03,
+        "apm": 45.45,
+        "app": 0.37,
+        "vs": 119.6,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2090,
       "winner": "KANGEL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 84,
+        "att": 54,
+        "time": 30.317,
+        "pps": 2.77,
+        "apm": 106.87,
+        "app": 0.64,
+        "vs": 217.7,
+        "src": "1080p"
+       },
+       {
+        "pieces": 85,
+        "att": 72,
+        "time": 29.983,
+        "pps": 2.83,
+        "apm": 144.08,
+        "app": 0.85,
+        "vs": 290.16,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 2131,
       "winner": "MITHRAAAA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 28,
+        "att": 18,
+        "time": 8.733,
+        "pps": 3.21,
+        "apm": 123.67,
+        "app": 0.64,
+        "vs": 206.1,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 14,
+        "att": 0,
+        "time": 8.767,
+        "pps": 1.6,
+        "apm": 0.0,
+        "app": 0.0,
+        "vs": null,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 2150,
       "winner": "MITHRAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 40,
+        "att": 28,
+        "time": 15.95,
+        "pps": 2.51,
+        "apm": 105.33,
+        "app": 0.7,
+        "vs": 181.81,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -8020,43 +8422,155 @@
       "n": 1,
       "t": 2397,
       "winner": "MAKARAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 97,
+        "att": 81,
+        "time": 43.817,
+        "pps": 2.21,
+        "apm": 110.92,
+        "app": 0.84,
+        "vs": 23.73,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 2451,
       "winner": "MAKARAAAA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 47,
+        "att": 38,
+        "time": 16.233,
+        "pps": 2.9,
+        "apm": 140.45,
+        "app": 0.81,
+        "vs": 277.2,
+        "src": "1080p"
+       },
+       {
+        "pieces": 29,
+        "att": 15,
+        "time": 16.533,
+        "pps": 1.75,
+        "apm": 54.44,
+        "app": 0.52,
+        "vs": 114.91,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 2478,
       "winner": "MAKARAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 77,
+        "att": 34,
+        "time": 40.65,
+        "pps": 1.89,
+        "apm": 50.18,
+        "app": 0.44,
+        "vs": 130.38,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 2528,
       "winner": "MAKARAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 134,
+        "att": 117,
+        "time": 66.95,
+        "pps": 2.0,
+        "apm": 104.85,
+        "app": 0.87,
+        "vs": 231.51,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2606,
       "winner": "MAKARAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 43,
+        "att": 27,
+        "time": 24.0,
+        "pps": 1.79,
+        "apm": 67.5,
+        "app": 0.63,
+        "vs": 133.33,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2640,
       "winner": "MAKARAAAA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 81,
+        "att": 58,
+        "time": 40.667,
+        "pps": 1.99,
+        "apm": 85.57,
+        "app": 0.72,
+        "vs": 172.13,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 2691,
       "winner": "MAKARAAAA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 114,
+        "att": 112,
+        "time": 41.733,
+        "pps": 2.73,
+        "apm": 161.02,
+        "app": 0.98,
+        "vs": 32.1,
+        "src": "1080p"
+       },
+       {
+        "pieces": 89,
+        "att": 89,
+        "time": 42.033,
+        "pps": 2.12,
+        "apm": 127.04,
+        "app": 1.0,
+        "vs": 273.59,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -8075,61 +8589,231 @@
       "n": 1,
       "t": 2909,
       "winner": "KAFE11",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 259,
+        "att": 227,
+        "time": 61.733,
+        "pps": 4.2,
+        "apm": 220.63,
+        "app": 0.88,
+        "vs": 393.62,
+        "src": "1080p"
+       },
+       {
+        "pieces": 225,
+        "att": 174,
+        "time": 61.85,
+        "pps": 3.64,
+        "apm": 168.8,
+        "app": 0.77,
+        "vs": 358.93,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 2982,
       "winner": "KAFE11",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 151,
+        "att": 105,
+        "time": 35.333,
+        "pps": 4.27,
+        "apm": 178.3,
+        "app": 0.7,
+        "vs": 325.47,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 3027,
       "winner": "KAFE11",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 196,
+        "att": 178,
+        "time": 56.483,
+        "pps": 3.47,
+        "apm": 189.08,
+        "app": 0.91,
+        "vs": 398.36,
+        "src": "1080p"
+       },
+       {
+        "pieces": 228,
+        "att": 173,
+        "time": 57.15,
+        "pps": 3.99,
+        "apm": 181.63,
+        "app": 0.76,
+        "vs": 358.7,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 3095,
       "winner": "KAFE11",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 286,
+        "att": 227,
+        "time": 68.417,
+        "pps": 4.18,
+        "apm": 199.07,
+        "app": 0.79,
+        "vs": null,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 3173,
       "winner": "KAFE11",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 86,
+        "att": 83,
+        "time": 20.233,
+        "pps": 4.25,
+        "apm": 246.13,
+        "app": 0.97,
+        "vs": 444.81,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 63,
+        "att": 45,
+        "time": 20.467,
+        "pps": 3.08,
+        "apm": 131.92,
+        "app": 0.71,
+        "vs": 327.36,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 3204,
       "winner": "KAFE11",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 45,
+        "att": 32,
+        "time": 10.483,
+        "pps": 4.29,
+        "apm": 183.15,
+        "app": 0.71,
+        "vs": 324.32,
+        "src": "1080p"
+       },
+       {
+        "pieces": 37,
+        "att": 19,
+        "time": 10.783,
+        "pps": 3.43,
+        "apm": 105.72,
+        "app": 0.51,
+        "vs": 176.19,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 3226,
       "winner": "NARAA0327",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 68,
+        "att": 39,
+        "time": 20.233,
+        "pps": 3.36,
+        "apm": 115.65,
+        "app": 0.57,
+        "vs": 296.54,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 8,
       "t": 3256,
       "winner": "NARAA0327",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 18,
+        "att": 8,
+        "time": 7.45,
+        "pps": 2.42,
+        "apm": 64.43,
+        "app": 0.44,
+        "vs": 13.42,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 9,
       "t": 3274,
       "winner": "NARAA0327",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 250,
+        "att": 209,
+        "time": 77.16,
+        "pps": 3.24,
+        "apm": 162.52,
+        "app": 0.84,
+        "vs": null,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 10,
       "t": 3361,
       "winner": "KAFE11",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 23,
+        "att": 0,
+        "time": 6.55,
+        "pps": 3.51,
+        "apm": 0.0,
+        "app": 0.0,
+        "vs": null,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    }
@@ -9498,43 +10182,149 @@
       "n": 1,
       "t": 803,
       "winner": "SHAN_TC",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 54,
+        "att": 26,
+        "time": 24.233,
+        "pps": 2.23,
+        "apm": 64.38,
+        "app": 0.48,
+        "vs": 152.68,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 837,
       "winner": "SHAN_TC",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 30,
+        "att": 3,
+        "time": 15.983,
+        "pps": 1.88,
+        "apm": 11.26,
+        "app": 0.1,
+        "vs": 25.02,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 863,
       "winner": "SHAN_TC",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 228,
+        "att": 171,
+        "time": 92.933,
+        "pps": 2.45,
+        "apm": 110.4,
+        "app": 0.75,
+        "vs": 251.79,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 966,
       "winner": "SHAN_TC",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 23,
+        "att": 13,
+        "time": 9.05,
+        "pps": 2.54,
+        "apm": 86.19,
+        "app": 0.57,
+        "vs": 143.64,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 985,
       "winner": "SHAN_TC",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 199,
+        "att": 142,
+        "time": 76.55,
+        "pps": 2.6,
+        "apm": 111.3,
+        "app": 0.71,
+        "vs": 232.52,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 1072,
       "winner": "SHAN_TC",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 39,
+        "att": 24,
+        "time": 19.5,
+        "pps": 2.0,
+        "apm": 73.85,
+        "app": 0.62,
+        "vs": 164.08,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 1102,
       "winner": "SHAN_TC",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 39,
+        "att": 20,
+        "time": 11.6,
+        "pps": 3.36,
+        "apm": 103.45,
+        "app": 0.51,
+        "vs": null,
+        "src": "1080p"
+       },
+       {
+        "pieces": 24,
+        "att": 4,
+        "time": 12.367,
+        "pps": 1.94,
+        "apm": 19.41,
+        "app": 0.17,
+        "vs": null,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      }
     ]
    },
@@ -9553,49 +10343,189 @@
       "n": 1,
       "t": 1583,
       "winner": "SOMI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 47,
+        "att": 40,
+        "time": 15.983,
+        "pps": 2.94,
+        "apm": 150.16,
+        "app": 0.85,
+        "vs": 287.79,
+        "src": "1080p"
+       },
+       {
+        "pieces": 39,
+        "att": 15,
+        "time": 16.55,
+        "pps": 2.36,
+        "apm": 54.38,
+        "app": 0.38,
+        "vs": 114.8,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1609,
       "winner": "SOMI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 316,
+        "att": 228,
+        "time": 114.85,
+        "pps": 2.75,
+        "apm": 119.11,
+        "app": 0.72,
+        "vs": 255.98,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1734,
       "winner": "SOMI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 78,
+        "att": 59,
+        "time": 26.383,
+        "pps": 2.96,
+        "apm": 134.18,
+        "app": 0.76,
+        "vs": 288.06,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 1771,
       "winner": "SOMI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 130,
+        "att": 113,
+        "time": 42.483,
+        "pps": 3.06,
+        "apm": 159.59,
+        "app": 0.87,
+        "vs": 331.89,
+        "src": "1080p"
+       },
+       {
+        "pieces": 111,
+        "att": 85,
+        "time": 42.983,
+        "pps": 2.58,
+        "apm": 118.65,
+        "app": 0.77,
+        "vs": 258.23,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 1824,
       "winner": "JUUZOUDESU",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 25,
+        "att": 5,
+        "time": 13.632,
+        "pps": 1.83,
+        "apm": 22.01,
+        "app": 0.2,
+        "vs": 44.06,
+        "src": "1080p"
+       },
+       {
+        "pieces": 50,
+        "att": 39,
+        "time": 14.233,
+        "pps": 3.51,
+        "apm": 164.41,
+        "app": 0.78,
+        "vs": 274.0,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 1848,
       "winner": "SOMI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 120,
+        "att": 75,
+        "time": 52.75,
+        "pps": 2.27,
+        "apm": 85.31,
+        "app": 0.62,
+        "vs": 149.76,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 1911,
       "winner": "SOMI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 31,
+        "att": 11,
+        "time": 14.65,
+        "pps": 2.12,
+        "apm": 45.05,
+        "app": 0.35,
+        "vs": 95.56,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 1936,
       "winner": "SOMI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 153,
+        "att": 122,
+        "time": 49.733,
+        "pps": 3.08,
+        "apm": 147.19,
+        "app": 0.8,
+        "vs": 313.67,
+        "src": "1080p"
+       },
+       {
+        "pieces": 153,
+        "att": 104,
+        "time": 50.133,
+        "pps": 3.05,
+        "apm": 124.47,
+        "app": 0.68,
+        "vs": 267.28,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    }
@@ -13226,49 +14156,189 @@
       "n": 1,
       "t": 567,
       "winner": "SUMM3RITY",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 87,
+        "att": 68,
+        "time": 35.85,
+        "pps": 2.43,
+        "apm": 113.81,
+        "app": 0.78,
+        "vs": 209.2,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 614,
       "winner": "SUMM3RITY",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 95,
+        "att": 69,
+        "time": 32.783,
+        "pps": 2.9,
+        "apm": 126.28,
+        "app": 0.73,
+        "vs": 305.03,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 657,
       "winner": "DRONIC",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 69,
+        "att": 50,
+        "time": 24.433,
+        "pps": 2.82,
+        "apm": 122.78,
+        "app": 0.72,
+        "vs": 229.19,
+        "src": "1080p"
+       },
+       {
+        "pieces": 74,
+        "att": 73,
+        "time": 24.2,
+        "pps": 3.06,
+        "apm": 180.99,
+        "app": 0.99,
+        "vs": 342.5,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 692,
       "winner": "SUMM3RITY",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 28,
+        "att": 3,
+        "time": 11.362,
+        "pps": 2.46,
+        "apm": 15.84,
+        "app": 0.11,
+        "vs": 43.98,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 713,
       "winner": "SUMM3RITY",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 136,
+        "att": 126,
+        "time": 42.3,
+        "pps": 3.22,
+        "apm": 178.72,
+        "app": 0.93,
+        "vs": 387.7,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 766,
       "winner": "SUMM3RITY",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 299,
+        "att": 264,
+        "time": 75.483,
+        "pps": 3.96,
+        "apm": 209.85,
+        "app": 0.88,
+        "vs": 394.78,
+        "src": "1080p"
+       },
+       {
+        "pieces": 226,
+        "att": 200,
+        "time": 75.8,
+        "pps": 2.98,
+        "apm": 158.31,
+        "app": 0.88,
+        "vs": 358.83,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 852,
       "winner": "SUMM3RITY",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 143,
+        "att": 97,
+        "time": 30.233,
+        "pps": 4.73,
+        "apm": 192.5,
+        "app": 0.68,
+        "vs": 386.89,
+        "src": "1080p"
+       },
+       {
+        "pieces": 96,
+        "att": 87,
+        "time": 30.333,
+        "pps": 3.16,
+        "apm": 172.09,
+        "app": 0.91,
+        "vs": 323.07,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 893,
       "winner": "SUMM3RITY",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 188,
+        "att": 111,
+        "time": 46.483,
+        "pps": 4.04,
+        "apm": 143.28,
+        "app": 0.59,
+        "vs": 316.24,
+        "src": "1080p"
+       },
+       {
+        "pieces": 129,
+        "att": 102,
+        "time": 46.667,
+        "pps": 2.76,
+        "apm": 131.14,
+        "app": 0.79,
+        "vs": 261.42,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -13287,49 +14357,189 @@
       "n": 1,
       "t": 1267,
       "winner": "H4Y4",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 109,
+        "att": 95,
+        "time": 30.233,
+        "pps": 3.61,
+        "apm": 188.54,
+        "app": 0.87,
+        "vs": 340.68,
+        "src": "1080p"
+       },
+       {
+        "pieces": 95,
+        "att": 76,
+        "time": 30.333,
+        "pps": 3.13,
+        "apm": 150.33,
+        "app": 0.8,
+        "vs": 270.32,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1308,
       "winner": "HOSHI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 134,
+        "att": 119,
+        "time": 41.517,
+        "pps": 3.23,
+        "apm": 171.98,
+        "app": 0.89,
+        "vs": 332.39,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1360,
       "winner": "H4Y4",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 62,
+        "att": 39,
+        "time": 16.233,
+        "pps": 3.82,
+        "apm": 144.15,
+        "app": 0.63,
+        "vs": 240.24,
+        "src": "1080p"
+       },
+       {
+        "pieces": 37,
+        "att": 13,
+        "time": 16.417,
+        "pps": 2.25,
+        "apm": 47.51,
+        "app": 0.35,
+        "vs": 127.91,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 1387,
       "winner": "H4Y4",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 31,
+        "att": 10,
+        "time": 10.85,
+        "pps": 2.86,
+        "apm": 55.3,
+        "app": 0.32,
+        "vs": 101.38,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 1408,
       "winner": "H4Y4",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 68,
+        "att": 42,
+        "time": 25.817,
+        "pps": 2.63,
+        "apm": 97.61,
+        "app": 0.62,
+        "vs": 201.42,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 1444,
       "winner": "H4Y4",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 21,
+        "att": 0,
+        "time": 9.833,
+        "pps": 2.14,
+        "apm": 0.0,
+        "app": 0.0,
+        "vs": null,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 1464,
       "winner": "H4Y4",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 106,
+        "att": 101,
+        "time": 45.483,
+        "pps": 2.33,
+        "apm": 133.24,
+        "app": 0.95,
+        "vs": 233.05,
+        "src": "1080p"
+       },
+       {
+        "pieces": 71,
+        "att": 56,
+        "time": 45.583,
+        "pps": 1.56,
+        "apm": 73.71,
+        "app": 0.79,
+        "vs": 149.17,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 1520,
       "winner": "H4Y4",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 210,
+        "att": 207,
+        "time": 55.233,
+        "pps": 3.8,
+        "apm": 224.87,
+        "app": 0.99,
+        "vs": 414.6,
+        "src": "1080p"
+       },
+       {
+        "pieces": 167,
+        "att": 144,
+        "time": 55.35,
+        "pps": 3.02,
+        "apm": 156.1,
+        "app": 0.86,
+        "vs": 368.56,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -13348,49 +14558,168 @@
       "n": 1,
       "t": 1775,
       "winner": "PCO",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 61,
+        "att": 32,
+        "time": 27.483,
+        "pps": 2.22,
+        "apm": 69.86,
+        "app": 0.52,
+        "vs": 12.73,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1812,
       "winner": "PCO",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 163,
+        "att": 116,
+        "time": 66.45,
+        "pps": 2.45,
+        "apm": 104.74,
+        "app": 0.71,
+        "vs": 227.23,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1889,
       "winner": "PCO",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 72,
+        "att": 61,
+        "time": 35.883,
+        "pps": 2.01,
+        "apm": 102.0,
+        "app": 0.85,
+        "vs": 211.79,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 1935,
       "winner": "PCO",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 269,
+        "att": 220,
+        "time": 99.367,
+        "pps": 2.71,
+        "apm": 132.84,
+        "app": 0.82,
+        "vs": 292.85,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2044,
       "winner": "PCO",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 271,
+        "att": 225,
+        "time": 101.633,
+        "pps": 2.67,
+        "apm": 132.83,
+        "app": 0.83,
+        "vs": 284.35,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2156,
       "winner": "PCO",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 40,
+        "att": 18,
+        "time": 16.833,
+        "pps": 2.38,
+        "apm": 64.16,
+        "app": 0.45,
+        "vs": 106.93,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 2184,
       "winner": "GAMEPLAYER299",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 23,
+        "att": 14,
+        "time": 12.133,
+        "pps": 1.9,
+        "apm": 69.23,
+        "app": 0.61,
+        "vs": 123.62,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 8,
       "t": 2206,
       "winner": "PCO",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 58,
+        "att": 45,
+        "time": 25.983,
+        "pps": 2.23,
+        "apm": 103.91,
+        "app": 0.78,
+        "vs": 196.27,
+        "src": "1080p"
+       },
+       {
+        "pieces": 67,
+        "att": 29,
+        "time": 26.283,
+        "pps": 2.55,
+        "apm": 66.2,
+        "app": 0.43,
+        "vs": 129.35,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -13409,49 +14738,184 @@
       "n": 1,
       "t": 2489,
       "winner": "3ROTATE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 60,
+        "att": 32,
+        "time": 22.95,
+        "pps": 2.61,
+        "apm": 83.66,
+        "app": 0.53,
+        "vs": 191.72,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 2522,
       "winner": "3ROTATE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 52,
+        "att": 48,
+        "time": 15.78,
+        "pps": 3.3,
+        "apm": 182.51,
+        "app": 0.92,
+        "vs": 36.92,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 56,
+        "att": 41,
+        "time": 16.183,
+        "pps": 3.46,
+        "apm": 152.01,
+        "app": 0.73,
+        "vs": 259.52,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 2549,
       "winner": "3ROTATE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 67,
+        "att": 70,
+        "time": 21.65,
+        "pps": 3.09,
+        "apm": 194.0,
+        "app": 1.04,
+        "vs": 374.13,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 2580,
       "winner": "OPYUWUWU",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 87,
+        "att": 60,
+        "time": 24.767,
+        "pps": 3.51,
+        "apm": 145.35,
+        "app": 0.69,
+        "vs": 294.75,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2615,
       "winner": "3ROTATE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 142,
+        "att": 115,
+        "time": 51.883,
+        "pps": 2.74,
+        "apm": 132.99,
+        "app": 0.81,
+        "vs": 310.31,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2677,
       "winner": "3ROTATE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 102,
+        "att": 83,
+        "time": 32.483,
+        "pps": 3.14,
+        "apm": 153.31,
+        "app": 0.81,
+        "vs": 335.55,
+        "src": "1080p"
+       },
+       {
+        "pieces": 87,
+        "att": 79,
+        "time": 32.883,
+        "pps": 2.65,
+        "apm": 144.15,
+        "app": 0.91,
+        "vs": 276.73,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 2721,
       "winner": "3ROTATE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 38,
+        "att": 36,
+        "time": 10.733,
+        "pps": 3.54,
+        "apm": 201.25,
+        "app": 0.95,
+        "vs": 400.62,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 32,
+        "att": 21,
+        "time": 11.25,
+        "pps": 2.84,
+        "apm": 112.0,
+        "app": 0.66,
+        "vs": 186.86,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 2742,
       "winner": "3ROTATE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 37,
+        "att": 22,
+        "time": 24.75,
+        "pps": 1.49,
+        "apm": 53.33,
+        "app": 0.59,
+        "vs": 88.88,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -13470,49 +14934,212 @@
       "n": 1,
       "t": 3058,
       "winner": "KEZDABEZ",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 145,
+        "att": 139,
+        "time": 32.233,
+        "pps": 4.5,
+        "apm": 258.74,
+        "app": 0.96,
+        "vs": 44.64,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 107,
+        "att": 76,
+        "time": 32.367,
+        "pps": 3.31,
+        "apm": 140.88,
+        "app": 0.71,
+        "vs": 318.22,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 3100,
       "winner": "KEZDABEZ",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 63,
+        "att": 48,
+        "time": 18.483,
+        "pps": 3.41,
+        "apm": 155.82,
+        "app": 0.76,
+        "vs": 335.43,
+        "src": "1080p"
+       },
+       {
+        "pieces": 67,
+        "att": 45,
+        "time": 18.583,
+        "pps": 3.61,
+        "apm": 145.29,
+        "app": 0.67,
+        "vs": 252.91,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 3129,
       "winner": "KEZDABEZ",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 136,
+        "att": 118,
+        "time": 33.483,
+        "pps": 4.06,
+        "apm": 211.45,
+        "app": 0.87,
+        "vs": 373.32,
+        "src": "1080p"
+       },
+       {
+        "pieces": 102,
+        "att": 76,
+        "time": 33.65,
+        "pps": 3.03,
+        "apm": 135.51,
+        "app": 0.75,
+        "vs": 285.28,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 3173,
       "winner": "KEZDABEZ",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 114,
+        "att": 105,
+        "time": 28.233,
+        "pps": 4.04,
+        "apm": 223.14,
+        "app": 0.92,
+        "vs": 386.06,
+        "src": "1080p"
+       },
+       {
+        "pieces": 92,
+        "att": 69,
+        "time": 28.433,
+        "pps": 3.24,
+        "apm": 145.61,
+        "app": 0.75,
+        "vs": 281.35,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 3212,
       "winner": "KEZDABEZ",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 53,
+        "att": 29,
+        "time": 10.239,
+        "pps": 5.18,
+        "apm": 169.94,
+        "app": 0.55,
+        "vs": null,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 30,
+        "att": 6,
+        "time": 10.267,
+        "pps": 2.92,
+        "apm": 35.06,
+        "app": 0.2,
+        "vs": 77.92,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 3233,
       "winner": "MICU",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 39,
+        "att": 11,
+        "time": 12.15,
+        "pps": 3.21,
+        "apm": 54.32,
+        "app": 0.28,
+        "vs": 90.53,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 7,
       "t": 3255,
       "winner": "KEZDABEZ",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 34,
+        "att": 32,
+        "time": 12.983,
+        "pps": 2.62,
+        "apm": 147.89,
+        "app": 0.94,
+        "vs": 315.78,
+        "src": "1080p"
+       },
+       {
+        "pieces": 39,
+        "att": 16,
+        "time": 13.167,
+        "pps": 2.96,
+        "apm": 72.91,
+        "app": 0.41,
+        "vs": 129.11,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 3279,
       "winner": "KEZDABEZ",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 128,
+        "att": 108,
+        "time": 33.483,
+        "pps": 3.82,
+        "apm": 193.53,
+        "app": 0.84,
+        "vs": 322.54,
+        "src": "1080p"
+       },
+       {
+        "pieces": 105,
+        "att": 62,
+        "time": 33.583,
+        "pps": 3.13,
+        "apm": 110.77,
+        "app": 0.59,
+        "vs": 276.92,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    }
@@ -24961,43 +26588,191 @@
       "n": 1,
       "t": 852,
       "winner": "PROMO0000000",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 119,
+        "att": 88,
+        "time": 30.483,
+        "pps": 3.9,
+        "apm": 173.21,
+        "app": 0.74,
+        "vs": 344.45,
+        "src": "1080p"
+       },
+       {
+        "pieces": 77,
+        "att": 57,
+        "time": 30.417,
+        "pps": 2.53,
+        "apm": 112.44,
+        "app": 0.74,
+        "vs": 266.38,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 892,
       "winner": "PROMO0000000",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 84,
+        "att": 55,
+        "time": 19.233,
+        "pps": 4.37,
+        "apm": 171.58,
+        "app": 0.65,
+        "vs": 285.96,
+        "src": "1080p"
+       },
+       {
+        "pieces": 54,
+        "att": 30,
+        "time": 19.283,
+        "pps": 2.8,
+        "apm": 93.35,
+        "app": 0.56,
+        "vs": 155.57,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 922,
       "winner": "PROMO0000000",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 36,
+        "att": 22,
+        "time": 7.733,
+        "pps": 4.66,
+        "apm": 170.7,
+        "app": 0.61,
+        "vs": 284.48,
+        "src": "1080p"
+       },
+       {
+        "pieces": 23,
+        "att": 7,
+        "time": 7.883,
+        "pps": 2.92,
+        "apm": 53.28,
+        "app": 0.3,
+        "vs": 88.79,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 940,
       "winner": "PROMO0000000",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 84,
+        "att": 67,
+        "time": 17.733,
+        "pps": 4.74,
+        "apm": 226.7,
+        "app": 0.8,
+        "vs": 377.81,
+        "src": "1080p"
+       },
+       {
+        "pieces": 52,
+        "att": 33,
+        "time": 17.85,
+        "pps": 2.91,
+        "apm": 110.92,
+        "app": 0.63,
+        "vs": 184.07,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 968,
       "winner": "PROMO0000000",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 50,
+        "att": 34,
+        "time": 10.233,
+        "pps": 4.89,
+        "apm": 199.36,
+        "app": 0.68,
+        "vs": 332.24,
+        "src": "1080p"
+       },
+       {
+        "pieces": 35,
+        "att": 19,
+        "time": 10.267,
+        "pps": 3.41,
+        "apm": 111.04,
+        "app": 0.54,
+        "vs": 185.06,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 989,
       "winner": "PROMO0000000",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 56,
+        "att": 46,
+        "time": 11.483,
+        "pps": 4.88,
+        "apm": 240.36,
+        "app": 0.82,
+        "vs": 435.41,
+        "src": "1080p"
+       },
+       {
+        "pieces": 41,
+        "att": 29,
+        "time": 11.5,
+        "pps": 3.57,
+        "apm": 151.3,
+        "app": 0.71,
+        "vs": 252.17,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      },
      {
       "n": 7,
       "t": 1011,
       "winner": "PROMO0000000",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 262,
+        "att": 177,
+        "time": 67.733,
+        "pps": 3.87,
+        "apm": 156.79,
+        "app": 0.68,
+        "vs": 281.98,
+        "src": "1080p"
+       },
+       {
+        "pieces": 166,
+        "att": 114,
+        "time": 67.762,
+        "pps": 2.45,
+        "apm": 100.94,
+        "app": 0.69,
+        "vs": 252.33,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -25016,55 +26791,245 @@
       "n": 1,
       "t": 1555,
       "winner": "RAIKO",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 240,
+        "att": 184,
+        "time": 62.667,
+        "pps": 3.83,
+        "apm": 176.17,
+        "app": 0.77,
+        "vs": 352.85,
+        "src": "1080p"
+       },
+       {
+        "pieces": 192,
+        "att": 188,
+        "time": 62.483,
+        "pps": 3.07,
+        "apm": 180.53,
+        "app": 0.98,
+        "vs": 382.5,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1627,
       "winner": "WESTL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 63,
+        "att": 63,
+        "time": 14.483,
+        "pps": 4.35,
+        "apm": 261.0,
+        "app": 1.0,
+        "vs": 469.5,
+        "src": "1080p"
+       },
+       {
+        "pieces": 52,
+        "att": 41,
+        "time": 14.467,
+        "pps": 3.59,
+        "apm": 170.04,
+        "app": 0.79,
+        "vs": 317.97,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1652,
       "winner": "WESTL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 74,
+        "att": 71,
+        "time": 19.483,
+        "pps": 3.8,
+        "apm": 218.65,
+        "app": 0.96,
+        "vs": 410.6,
+        "src": "1080p"
+       },
+       {
+        "pieces": 57,
+        "att": 36,
+        "time": 19.633,
+        "pps": 2.9,
+        "apm": 110.02,
+        "app": 0.63,
+        "vs": 249.57,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 1682,
       "winner": "WESTL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 82,
+        "att": 54,
+        "time": 21.233,
+        "pps": 3.86,
+        "apm": 152.59,
+        "app": 0.66,
+        "vs": 310.83,
+        "src": "1080p"
+       },
+       {
+        "pieces": 60,
+        "att": 39,
+        "time": 21.283,
+        "pps": 2.82,
+        "apm": 109.95,
+        "app": 0.65,
+        "vs": 211.43,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 1714,
       "winner": "RAIKO",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 303,
+        "att": 220,
+        "time": 82.5,
+        "pps": 3.67,
+        "apm": 160.0,
+        "app": 0.73,
+        "vs": 313.75,
+        "src": "1080p"
+       },
+       {
+        "pieces": 243,
+        "att": 189,
+        "time": 82.733,
+        "pps": 2.94,
+        "apm": 137.07,
+        "app": 0.78,
+        "vs": 327.55,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 1807,
       "winner": "WESTL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 99,
+        "att": 66,
+        "time": 25.733,
+        "pps": 3.85,
+        "apm": 153.89,
+        "app": 0.67,
+        "vs": 338.08,
+        "src": "1080p"
+       },
+       {
+        "pieces": 86,
+        "att": 54,
+        "time": 25.717,
+        "pps": 3.34,
+        "apm": 125.99,
+        "app": 0.63,
+        "vs": 244.97,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 1843,
       "winner": "WESTL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 173,
+        "att": 143,
+        "time": 42.733,
+        "pps": 4.05,
+        "apm": 200.78,
+        "app": 0.83,
+        "vs": 404.83,
+        "src": "1080p"
+       },
+       {
+        "pieces": 132,
+        "att": 97,
+        "time": 42.883,
+        "pps": 3.08,
+        "apm": 135.72,
+        "app": 0.73,
+        "vs": 335.79,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 1896,
       "winner": "WESTL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 104,
+        "att": 78,
+        "time": 28.483,
+        "pps": 3.65,
+        "apm": 164.31,
+        "app": 0.75,
+        "vs": 301.93,
+        "src": "1080p"
+       },
+       {
+        "pieces": 74,
+        "att": 53,
+        "time": 28.483,
+        "pps": 2.6,
+        "apm": 111.65,
+        "app": 0.72,
+        "vs": 242.24,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 9,
       "t": 1935,
       "winner": "WESTL",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 305,
+        "att": 266,
+        "time": 79.983,
+        "pps": 3.81,
+        "apm": 199.54,
+        "app": 0.87,
+        "vs": 388.83,
+        "src": "1080p"
+       },
+       {
+        "pieces": 201,
+        "att": 204,
+        "time": 80.117,
+        "pps": 2.51,
+        "apm": 152.78,
+        "app": 1.01,
+        "vs": 356.97,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      }
     ]
    },
@@ -25083,43 +27048,191 @@
       "n": 1,
       "t": 2277,
       "winner": "CABOOZLED_PIE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 125,
+        "att": 97,
+        "time": 38.483,
+        "pps": 3.25,
+        "apm": 151.24,
+        "app": 0.78,
+        "vs": 262.45,
+        "src": "1080p"
+       },
+       {
+        "pieces": 97,
+        "att": 73,
+        "time": 38.633,
+        "pps": 2.51,
+        "apm": 113.37,
+        "app": 0.75,
+        "vs": 204.48,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 2326,
       "winner": "CABOOZLED_PIE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 171,
+        "att": 168,
+        "time": 46.483,
+        "pps": 3.68,
+        "apm": 216.85,
+        "app": 0.98,
+        "vs": 406.59,
+        "src": "1080p"
+       },
+       {
+        "pieces": 162,
+        "att": 126,
+        "time": 46.662,
+        "pps": 3.47,
+        "apm": 162.02,
+        "app": 0.78,
+        "vs": 354.88,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      },
      {
       "n": 3,
       "t": 2383,
       "winner": "CABOOZLED_PIE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 68,
+        "att": 66,
+        "time": 17.733,
+        "pps": 3.83,
+        "apm": 223.31,
+        "app": 0.97,
+        "vs": 411.65,
+        "src": "1080p"
+       },
+       {
+        "pieces": 62,
+        "att": 46,
+        "time": 17.8,
+        "pps": 3.48,
+        "apm": 155.06,
+        "app": 0.74,
+        "vs": 280.89,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 2411,
       "winner": "CABOOZLED_PIE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 124,
+        "att": 132,
+        "time": 33.233,
+        "pps": 3.73,
+        "apm": 238.32,
+        "app": 1.06,
+        "vs": 463.39,
+        "src": "1080p"
+       },
+       {
+        "pieces": 110,
+        "att": 88,
+        "time": 33.383,
+        "pps": 3.3,
+        "apm": 158.16,
+        "app": 0.8,
+        "vs": 383.42,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2455,
       "winner": "CABOOZLED_PIE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 120,
+        "att": 104,
+        "time": 33.733,
+        "pps": 3.56,
+        "apm": 184.98,
+        "app": 0.87,
+        "vs": 370.55,
+        "src": "1080p"
+       },
+       {
+        "pieces": 127,
+        "att": 95,
+        "time": 33.763,
+        "pps": 3.76,
+        "apm": 168.82,
+        "app": 0.75,
+        "vs": 319.68,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2499,
       "winner": "CABOOZLED_PIE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 41,
+        "att": 36,
+        "time": 10.983,
+        "pps": 3.73,
+        "apm": 196.67,
+        "app": 0.88,
+        "vs": 364.18,
+        "src": "1080p"
+       },
+       {
+        "pieces": 33,
+        "att": 16,
+        "time": 11.05,
+        "pps": 2.99,
+        "apm": 86.88,
+        "app": 0.48,
+        "vs": 144.79,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 2520,
       "winner": "CABOOZLED_PIE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 156,
+        "att": 165,
+        "time": 43.983,
+        "pps": 3.55,
+        "apm": 225.09,
+        "app": 1.06,
+        "vs": 397.87,
+        "src": "1080p"
+       },
+       {
+        "pieces": 150,
+        "att": 112,
+        "time": 44.1,
+        "pps": 3.4,
+        "apm": 152.38,
+        "app": 0.75,
+        "vs": 306.12,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -25138,55 +27251,238 @@
       "n": 1,
       "t": 2854,
       "winner": "FLYINGDIARRHEA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 122,
+        "att": 118,
+        "time": 30.733,
+        "pps": 3.97,
+        "apm": 230.37,
+        "app": 0.97,
+        "vs": 445.77,
+        "src": "1080p"
+       },
+       {
+        "pieces": 91,
+        "att": 83,
+        "time": 30.7,
+        "pps": 2.96,
+        "apm": 162.21,
+        "app": 0.91,
+        "vs": 374.59,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 2895,
       "winner": "FLYINGDIARRHEA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 38,
+        "att": 31,
+        "time": 11.983,
+        "pps": 3.17,
+        "apm": 155.22,
+        "app": 0.82,
+        "vs": 292.07,
+        "src": "1080p"
+       },
+       {
+        "pieces": 41,
+        "att": 16,
+        "time": 11.983,
+        "pps": 3.42,
+        "apm": 80.11,
+        "app": 0.39,
+        "vs": 141.86,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 2918,
       "winner": "COCOSUS",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 44,
+        "att": 30,
+        "time": 14.983,
+        "pps": 2.94,
+        "apm": 120.14,
+        "app": 0.68,
+        "vs": 200.22,
+        "src": "1080p"
+       },
+       {
+        "pieces": 50,
+        "att": 46,
+        "time": 14.733,
+        "pps": 3.39,
+        "apm": 187.33,
+        "app": 0.92,
+        "vs": 359.72,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 2943,
       "winner": "FLYINGDIARRHEA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 63,
+        "att": 53,
+        "time": 17.733,
+        "pps": 3.55,
+        "apm": 179.33,
+        "app": 0.84,
+        "vs": 338.34,
+        "src": "1080p"
+       },
+       {
+        "pieces": 57,
+        "att": 36,
+        "time": 17.9,
+        "pps": 3.18,
+        "apm": 120.67,
+        "app": 0.63,
+        "vs": 223.48,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2971,
       "winner": "FLYINGDIARRHEA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 27,
+        "att": 18,
+        "time": 7.733,
+        "pps": 3.49,
+        "apm": 139.66,
+        "app": 0.67,
+        "vs": 232.75,
+        "src": "1080p"
+       },
+       {
+        "pieces": 28,
+        "att": 4,
+        "time": 7.767,
+        "pps": 3.6,
+        "apm": 30.9,
+        "app": 0.14,
+        "vs": 51.5,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2989,
       "winner": "FLYINGDIARRHEA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 141,
+        "att": 126,
+        "time": 40.233,
+        "pps": 3.5,
+        "apm": 187.91,
+        "app": 0.89,
+        "vs": 345.48,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 7,
       "t": 3040,
       "winner": "COCOSUS",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 42,
+        "att": 20,
+        "time": 13.5,
+        "pps": 3.11,
+        "apm": 88.89,
+        "app": 0.48,
+        "vs": 140.96,
+        "src": "1080p"
+       },
+       {
+        "pieces": 48,
+        "att": 42,
+        "time": 13.483,
+        "pps": 3.56,
+        "apm": 186.9,
+        "app": 0.88,
+        "vs": 311.49,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 3064,
       "winner": "FLYINGDIARRHEA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 58,
+        "att": 38,
+        "time": 15.483,
+        "pps": 3.75,
+        "apm": 147.26,
+        "app": 0.66,
+        "vs": 245.42,
+        "src": "1080p"
+       },
+       {
+        "pieces": 42,
+        "att": 17,
+        "time": 15.503,
+        "pps": 2.71,
+        "apm": 65.79,
+        "app": 0.4,
+        "vs": 121.86,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      },
      {
       "n": 9,
       "t": 3090,
       "winner": "FLYINGDIARRHEA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 60,
+        "att": 56,
+        "time": 15.983,
+        "pps": 3.75,
+        "apm": 210.22,
+        "app": 0.93,
+        "vs": 394.16,
+        "src": "1080p"
+       },
+       {
+        "pieces": 49,
+        "att": 28,
+        "time": 16.15,
+        "pps": 3.03,
+        "apm": 104.02,
+        "app": 0.57,
+        "vs": 22.21,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -25205,49 +27501,205 @@
       "n": 1,
       "t": 3537,
       "winner": "LAU",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 2,
       "t": 3548,
       "winner": "BLAARG",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 67,
+        "att": 51,
+        "time": 14.983,
+        "pps": 4.47,
+        "apm": 204.23,
+        "app": 0.76,
+        "vs": 340.37,
+        "src": "1080p"
+       },
+       {
+        "pieces": 34,
+        "att": 14,
+        "time": 14.862,
+        "pps": 2.29,
+        "apm": 56.52,
+        "app": 0.41,
+        "vs": 160.0,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      },
      {
       "n": 3,
       "t": 3573,
       "winner": "BLAARG",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 86,
+        "att": 76,
+        "time": 22.983,
+        "pps": 3.74,
+        "apm": 198.41,
+        "app": 0.88,
+        "vs": 382.88,
+        "src": "1080p"
+       },
+       {
+        "pieces": 65,
+        "att": 48,
+        "time": 23.033,
+        "pps": 2.82,
+        "apm": 125.04,
+        "app": 0.74,
+        "vs": 299.56,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      },
      {
       "n": 4,
       "t": 3606,
       "winner": "BLAARG",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 52,
+        "att": 34,
+        "time": 12.483,
+        "pps": 4.17,
+        "apm": 163.42,
+        "app": 0.65,
+        "vs": 272.36,
+        "src": "1080p"
+       },
+       {
+        "pieces": 31,
+        "att": 12,
+        "time": 12.5,
+        "pps": 2.48,
+        "apm": 57.6,
+        "app": 0.39,
+        "vs": 96.0,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 3629,
       "winner": "BLAARG",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 30,
+        "att": 22,
+        "time": 7.483,
+        "pps": 4.01,
+        "apm": 176.4,
+        "app": 0.73,
+        "vs": 347.43,
+        "src": "1080p"
+       },
+       {
+        "pieces": 22,
+        "att": 9,
+        "time": 7.433,
+        "pps": 2.96,
+        "apm": 72.65,
+        "app": 0.41,
+        "vs": 121.07,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 3646,
       "winner": "BLAARG",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 97,
+        "att": 66,
+        "time": 30.233,
+        "pps": 3.21,
+        "apm": 130.98,
+        "app": 0.68,
+        "vs": 248.07,
+        "src": "1080p"
+       },
+       {
+        "pieces": 80,
+        "att": 40,
+        "time": 30.167,
+        "pps": 2.65,
+        "apm": 79.56,
+        "app": 0.5,
+        "vs": 192.26,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 3687,
       "winner": "BLAARG",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 118,
+        "att": 102,
+        "time": 32.983,
+        "pps": 3.58,
+        "apm": 185.55,
+        "app": 0.86,
+        "vs": 336.53,
+        "src": "1080p"
+       },
+       {
+        "pieces": 93,
+        "att": 61,
+        "time": 33.133,
+        "pps": 2.81,
+        "apm": 110.46,
+        "app": 0.66,
+        "vs": 241.44,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 3730,
       "winner": "BLAARG",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 99,
+        "att": 80,
+        "time": 27.233,
+        "pps": 3.64,
+        "apm": 176.26,
+        "app": 0.81,
+        "vs": 326.8,
+        "src": "1080p"
+       },
+       {
+        "pieces": 75,
+        "att": 58,
+        "time": 27.333,
+        "pps": 2.74,
+        "apm": 127.32,
+        "app": 0.77,
+        "vs": 25.6,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    }
@@ -28707,67 +31159,250 @@
       "n": 1,
       "t": 573,
       "winner": "OVERSHADOWSXUWU",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 45,
+        "att": 20,
+        "time": 14.233,
+        "pps": 3.16,
+        "apm": 84.31,
+        "app": 0.44,
+        "vs": 168.61,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 2,
       "t": 598,
       "winner": "OVERSHADOWSXUWU",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 39,
+        "att": 21,
+        "time": 10.9,
+        "pps": 3.58,
+        "apm": 115.6,
+        "app": 0.54,
+        "vs": 19.26,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 3,
       "t": 619,
       "winner": "ANYA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 178,
+        "att": 134,
+        "time": 52.233,
+        "pps": 3.41,
+        "apm": 153.93,
+        "app": 0.75,
+        "vs": 319.71,
+        "src": "1080p"
+       },
+       {
+        "pieces": 161,
+        "att": 126,
+        "time": 52.283,
+        "pps": 3.08,
+        "apm": 144.6,
+        "app": 0.78,
+        "vs": 279.24,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 681,
       "winner": "ANYA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 101,
+        "att": 82,
+        "time": 30.233,
+        "pps": 3.34,
+        "apm": 162.74,
+        "app": 0.81,
+        "vs": 284.45,
+        "src": "1080p"
+       },
+       {
+        "pieces": 83,
+        "att": 53,
+        "time": 30.367,
+        "pps": 2.73,
+        "apm": 104.72,
+        "app": 0.64,
+        "vs": 214.05,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 722,
       "winner": "ANYA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 75,
+        "att": 34,
+        "time": 29.417,
+        "pps": 2.55,
+        "apm": 69.35,
+        "app": 0.45,
+        "vs": 166.57,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 762,
       "winner": "ANYA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 72,
+        "att": 57,
+        "time": 25.983,
+        "pps": 2.77,
+        "apm": 131.62,
+        "app": 0.79,
+        "vs": 238.61,
+        "src": "1080p"
+       },
+       {
+        "pieces": 74,
+        "att": 31,
+        "time": 26.083,
+        "pps": 2.84,
+        "apm": 71.31,
+        "app": 0.42,
+        "vs": 153.35,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 798,
       "winner": "ANYA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 28,
+        "att": 16,
+        "time": 8.733,
+        "pps": 3.21,
+        "apm": 109.93,
+        "app": 0.57,
+        "vs": 183.2,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 817,
       "winner": "OVERSHADOWSXUWU",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 117,
+        "att": 104,
+        "time": 37.367,
+        "pps": 3.13,
+        "apm": 166.99,
+        "app": 0.89,
+        "vs": 345.22,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 9,
       "t": 865,
       "winner": "ANYA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 73,
+        "att": 61,
+        "time": 24.15,
+        "pps": 3.02,
+        "apm": 151.55,
+        "app": 0.84,
+        "vs": 298.13,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 10,
       "t": 899,
       "winner": "OVERSHADOWSXUWU",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 67,
+        "att": 50,
+        "time": 19.75,
+        "pps": 3.39,
+        "apm": 151.9,
+        "app": 0.75,
+        "vs": 329.11,
+        "src": "1080p"
+       },
+       {
+        "pieces": 72,
+        "att": 73,
+        "time": 19.733,
+        "pps": 3.65,
+        "apm": 221.96,
+        "app": 1.01,
+        "vs": 425.67,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 11,
       "t": 929,
       "winner": "ANYA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 180,
+        "att": 136,
+        "time": 60.233,
+        "pps": 2.99,
+        "apm": 135.47,
+        "app": 0.76,
+        "vs": 274.68,
+        "src": "1080p",
+        "att_unchecked": true
+       }
+      ]
      }
     ]
    },
@@ -28786,43 +31421,169 @@
       "n": 1,
       "t": 1264,
       "winner": "FIRESTORM",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 89,
+        "att": 97,
+        "time": 26.233,
+        "pps": 3.39,
+        "apm": 221.86,
+        "app": 1.09,
+        "vs": 423.12,
+        "src": "1080p"
+       },
+       {
+        "pieces": 87,
+        "att": 63,
+        "time": 26.233,
+        "pps": 3.32,
+        "apm": 144.09,
+        "app": 0.72,
+        "vs": 320.2,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1300,
       "winner": "FIRESTORM",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 132,
+        "att": 130,
+        "time": 40.489,
+        "pps": 3.26,
+        "apm": 192.64,
+        "app": 0.98,
+        "vs": null,
+        "src": "1080p"
+       },
+       {
+        "pieces": 122,
+        "att": 94,
+        "time": 40.4,
+        "pps": 3.02,
+        "apm": 139.6,
+        "app": 0.77,
+        "vs": 274.75,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1351,
       "winner": "FIRESTORM",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 33,
+        "att": 19,
+        "time": 9.35,
+        "pps": 3.53,
+        "apm": 121.93,
+        "app": 0.58,
+        "vs": 203.2,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 1371,
       "winner": "FIRESTORM",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 31,
+        "att": 17,
+        "time": 11.6,
+        "pps": 2.67,
+        "apm": 87.93,
+        "app": 0.55,
+        "vs": 146.55,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 1392,
       "winner": "FIRESTORM",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 372,
+        "att": 372,
+        "time": 99.983,
+        "pps": 3.72,
+        "apm": 223.24,
+        "app": 1.0,
+        "vs": 427.07,
+        "src": "1080p"
+       },
+       {
+        "pieces": 342,
+        "att": 315,
+        "time": 100.033,
+        "pps": 3.42,
+        "apm": 188.94,
+        "app": 0.92,
+        "vs": 402.86,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 1503,
       "winner": "FIRESTORM",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 57,
+        "att": 48,
+        "time": 13.233,
+        "pps": 4.31,
+        "apm": 217.64,
+        "app": 0.84,
+        "vs": 385.39,
+        "src": "1080p"
+       },
+       {
+        "pieces": 44,
+        "att": 23,
+        "time": 13.283,
+        "pps": 3.31,
+        "apm": 103.89,
+        "app": 0.52,
+        "vs": 225.84,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 1526,
       "winner": "FIRESTORM",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 306,
+        "att": 266,
+        "time": 90.317,
+        "pps": 3.39,
+        "apm": 176.71,
+        "app": 0.87,
+        "vs": 349.88,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -28841,43 +31602,148 @@
       "n": 1,
       "t": 1857,
       "winner": "TURTLE",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 247,
+        "att": 188,
+        "time": 62.233,
+        "pps": 3.97,
+        "apm": 181.25,
+        "app": 0.76,
+        "vs": 342.26,
+        "src": "1080p"
+       },
+       {
+        "pieces": 169,
+        "att": 134,
+        "time": 62.367,
+        "pps": 2.71,
+        "apm": 128.91,
+        "app": 0.79,
+        "vs": 299.83,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 1930,
       "winner": "TURTLE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 56,
+        "att": 33,
+        "time": 19.083,
+        "pps": 2.93,
+        "apm": 103.76,
+        "app": 0.59,
+        "vs": 23.05,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 1959,
       "winner": "TURTLE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 58,
+        "att": 35,
+        "time": 19.317,
+        "pps": 3.0,
+        "apm": 108.71,
+        "app": 0.6,
+        "vs": 264.02,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 1989,
       "winner": "TURTLE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 37,
+        "att": 30,
+        "time": 15.45,
+        "pps": 2.39,
+        "apm": 116.5,
+        "app": 0.81,
+        "vs": 252.42,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2015,
       "winner": "TURTLE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 102,
+        "att": 66,
+        "time": 37.667,
+        "pps": 2.71,
+        "apm": 105.13,
+        "app": 0.65,
+        "vs": 276.1,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2063,
       "winner": "TURTLE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 45,
+        "att": 36,
+        "time": 20.683,
+        "pps": 2.18,
+        "apm": 104.43,
+        "app": 0.8,
+        "vs": 261.07,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 2094,
       "winner": "TURTLE",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 49,
+        "att": 34,
+        "time": 17.583,
+        "pps": 2.79,
+        "apm": 116.02,
+        "app": 0.69,
+        "vs": 307.1,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    },
@@ -28896,67 +31762,228 @@
       "n": 1,
       "t": 2296,
       "winner": "SIMPSHRIMP",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 99,
+        "att": 91,
+        "time": 29.117,
+        "pps": 3.4,
+        "apm": 187.52,
+        "app": 0.92,
+        "vs": 336.57,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 2,
       "t": 2336,
       "winner": "LUMINA",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 309,
+        "att": 273,
+        "time": 95.733,
+        "pps": 3.23,
+        "apm": 171.1,
+        "app": 0.88,
+        "vs": 360.37,
+        "src": "1080p"
+       },
+       {
+        "pieces": 338,
+        "att": 262,
+        "time": 95.833,
+        "pps": 3.53,
+        "apm": 164.04,
+        "app": 0.78,
+        "vs": 338.08,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 2442,
       "winner": "SIMPSHRIMP",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 64,
+        "att": 41,
+        "time": 21.517,
+        "pps": 2.97,
+        "apm": 114.33,
+        "app": 0.64,
+        "vs": 232.37,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 4,
       "t": 2474,
       "winner": "LUMINA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 43,
+        "att": 23,
+        "time": 13.433,
+        "pps": 3.2,
+        "apm": 102.73,
+        "app": 0.53,
+        "vs": 200.99,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 2497,
       "winner": "SIMPSHRIMP",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 71,
+        "att": 33,
+        "time": 21.55,
+        "pps": 3.29,
+        "apm": 91.88,
+        "app": 0.46,
+        "vs": 204.17,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 6,
       "t": 2529,
       "winner": "SIMPSHRIMP",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 131,
+        "att": 105,
+        "time": 37.7,
+        "pps": 3.47,
+        "apm": 167.11,
+        "app": 0.8,
+        "vs": 350.13,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 7,
       "t": 2577,
       "winner": "LUMINA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 423,
+        "att": 328,
+        "time": 116.317,
+        "pps": 3.64,
+        "apm": 169.19,
+        "app": 0.78,
+        "vs": 353.34,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 8,
       "t": 2704,
       "winner": "LUMINA",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 116,
+        "att": 92,
+        "time": 30.283,
+        "pps": 3.83,
+        "apm": 182.28,
+        "app": 0.79,
+        "vs": 369.84,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 9,
       "t": 2744,
       "winner": "SIMPSHRIMP",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 260,
+        "att": 228,
+        "time": 73.233,
+        "pps": 3.55,
+        "apm": 186.8,
+        "app": 0.88,
+        "vs": 363.22,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 10,
       "t": 2828,
       "winner": "SIMPSHRIMP",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 49,
+        "att": 38,
+        "time": 16.967,
+        "pps": 2.89,
+        "apm": 134.38,
+        "app": 0.78,
+        "vs": 253.43,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      },
      {
       "n": 11,
       "t": 2855,
       "winner": "SIMPSHRIMP",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 58,
+        "att": 38,
+        "time": 17.8,
+        "pps": 3.26,
+        "apm": 128.09,
+        "app": 0.66,
+        "vs": 264.04,
+        "src": "1080p"
+       },
+       {
+        "unread": true
+       }
+      ]
      }
     ]
    },
@@ -28975,43 +32002,163 @@
       "n": 1,
       "t": 3028,
       "winner": "HIYORI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 84,
+        "att": 52,
+        "time": 26.55,
+        "pps": 3.16,
+        "apm": 117.51,
+        "app": 0.62,
+        "vs": 274.95,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 2,
       "t": 3065,
       "winner": "HIYORI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 66,
+        "att": 53,
+        "time": 19.983,
+        "pps": 3.3,
+        "apm": 159.14,
+        "app": 0.8,
+        "vs": 300.25,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 3,
       "t": 3095,
       "winner": "HIYORI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 77,
+        "att": 66,
+        "time": 25.532,
+        "pps": 3.02,
+        "apm": 155.1,
+        "app": 0.86,
+        "vs": null,
+        "src": "1080p",
+        "att_unchecked": true
+       },
+       {
+        "pieces": 75,
+        "att": 45,
+        "time": 26.083,
+        "pps": 2.88,
+        "apm": 103.52,
+        "app": 0.6,
+        "vs": 207.02,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 4,
       "t": 3131,
       "winner": "HIYORI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 76,
+        "att": 70,
+        "time": 25.033,
+        "pps": 3.04,
+        "apm": 167.78,
+        "app": 0.92,
+        "vs": 323.56,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 5,
       "t": 3167,
       "winner": "HIYORI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 97,
+        "att": 112,
+        "time": 29.233,
+        "pps": 3.32,
+        "apm": 229.88,
+        "app": 1.15,
+        "vs": 413.91,
+        "src": "1080p"
+       },
+       {
+        "pieces": 100,
+        "att": 75,
+        "time": 29.383,
+        "pps": 3.4,
+        "apm": 153.15,
+        "app": 0.75,
+        "vs": 326.71,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 6,
       "t": 3206,
       "winner": "HIYORI",
-      "stats": null
+      "stats": [
+       {
+        "pieces": 69,
+        "att": 59,
+        "time": 21.233,
+        "pps": 3.25,
+        "apm": 166.72,
+        "app": 0.86,
+        "vs": 334.37,
+        "src": "1080p"
+       },
+       {
+        "pieces": 60,
+        "att": 41,
+        "time": 21.2,
+        "pps": 2.83,
+        "apm": 116.04,
+        "app": 0.68,
+        "vs": 250.0,
+        "src": "1080p"
+       }
+      ]
      },
      {
       "n": 7,
       "t": 3238,
       "winner": "HIYORI",
-      "stats": null
+      "stats": [
+       {
+        "unread": true
+       },
+       {
+        "pieces": 37,
+        "att": 19,
+        "time": 10.267,
+        "pps": 3.6,
+        "apm": 111.04,
+        "app": 0.51,
+        "vs": 185.06,
+        "src": "1080p"
+       }
+      ]
      }
     ]
    }
